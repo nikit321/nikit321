@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nikit321
-- 👀 I’m interested in ML/AI , conversation AI
+- 👀 I’m interested in ML/AI , conversational AI
 - 🌱 I’m currently lrning ML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
